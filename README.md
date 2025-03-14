@@ -1,5 +1,3 @@
-# base-automation
-Automação de Transações na Rede Base
 # Base Automation - Hardhat Project
 
 ## 🚀 Descrição
