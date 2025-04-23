@@ -1,7 +1,7 @@
 # Base Automation - Hardhat Project
 
 ## 🚀 Descrição
-Este projeto é uma automação de transações na rede Base Sepolia utilizando Hardhat. Ele permite implantar e interagir com um contrato inteligente que armazena um valor na blockchain.
+Este projeto é uma automação de transações na rede Base Sepolia utilizando Hardhat. Ele permite implantar e interagir com um contrato inteligente que armazena um valor na blockchain. (BASE)
 
 ## 📦 Requisitos
 Antes de iniciar, certifique-se de ter instalado:
